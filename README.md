@@ -12,7 +12,7 @@
 
 <h3>🛠️ Projects:</h3>
 
-- 💻 &nbsp; Dev na Web ~ [@devnaweb](https://www.devnaweb.com)
+- 💻 &nbsp; Dev na Web ~ [@devnaweb](https://www.devnaweb.com.br)
 
 
 <h3>🤩 Passions:</h3>
@@ -28,5 +28,4 @@
 [![Daniel Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=helpsdan&show_icons=true)](https://github.com/helpsdan)
 
 
-<a href="https://www.devnaweb.com/"><img alt="Website" src="https://img.shields.io/badge/Website-linuxnaweb.com-green?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/danaguiar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gerson%20Carneiro-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/danaguiar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Alves-blue?style=flat&logo=linkedin"></a>
