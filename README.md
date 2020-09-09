@@ -19,7 +19,7 @@
 
 - 👨‍👩‍ &nbsp; Family.
 - 🏃🏻 &nbsp; Sports.
-- 🤖 &nbsp; Tecnology.
+- 🤖 &nbsp; Technology.
 - ☕ &nbsp; Coffe, much!
 - 🎮 &nbsp; Games!
 - 🛬 &nbsp; Trips!
