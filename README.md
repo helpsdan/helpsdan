@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helpsdan" alt="helpsdan" /> </p>
 
----
-
 <h3> 🧑🏻‍💻 About Me </h3>
 
 - 🧑 &nbsp; Exploring new technologies, automate tasks and share knowledge.   
@@ -43,8 +41,6 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helpsdan&layout=compact&hide=html" alt="helpsdan" /></p>   
-
----
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helpsdan&show_icons=true" alt="helpsdan" /></p>   
 
