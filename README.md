@@ -2,13 +2,19 @@
 
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helpsdan" alt="helpsdan" /> </p>
+
+---
 
 <h3> 🧑🏻‍💻 About Me </h3>
 
 - 🧑 &nbsp; Exploring new technologies, automate tasks and share knowledge.   
 - 💼 &nbsp; I’m currently working on as a Backend Developer at [Zup IT](https://www.zup.com.br/). **Project Zenety**   
 - 📝 &nbsp; I regulary write articles on my personal blog [Dev na Web](https://devnaweb.com.br).   
+
+---
 
 <h3>⚙️ Stack</h3>
 
@@ -21,6 +27,8 @@
 
 </p>
 
+---
+
 <h3>🤩 Passions:</h3>
 
 - 👨‍👩‍ &nbsp; Family.   
@@ -32,9 +40,15 @@
 
 <br/>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helpsdan&layout=compact&hide=html" alt="helpsdan" /></p>   
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helpsdan&show_icons=true" alt="helpsdan" /></p>   
+
+---
 
 <p align="center">
   
