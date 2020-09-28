@@ -9,7 +9,7 @@
 <h3> 🧑🏻‍💻 About Me </h3>
 
 - 🧑 &nbsp; Exploring new technologies, automate tasks and share knowledge.   
-- 💼 &nbsp; I’m currently working on as a Backend Developer at [Zup IT](https://www.zup.com.br/). **Project Zenety**   
+- 💼 &nbsp; I’m currently working on as a Backend Developer at [Zup IT](https://www.zup.com.br/). **Project Zenity**   
 - 📝 &nbsp; I regulary write articles on my personal blog [Dev na Web](https://devnaweb.com.br).   
 
 ---
