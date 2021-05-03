@@ -9,13 +9,13 @@
 <h3> 🧑🏻‍💻 About Me </h3>
 
 - 🧑 &nbsp; Exploring new technologies, automate tasks and share knowledge.   
-- 💼 &nbsp; I’m currently working on as a Backend Developer at [Zup IT](https://www.zup.com.br/). **Project Zenity**  
+- 💼 &nbsp; I’m currently working on as a Javascript Backend Developer at [Stone.co](https://www.stone.co/). **Project Ton**  
 
 ---
 
 <h3>⚙️ Stack</h3>
 
-- 💻 &nbsp; ~ Java ● Docker ● Spring ● Tests ● Javascrypt ● Microservices ● Scrum ~   
+- 💻 &nbsp; ~ Java ● Docker ● Kubernetes ● AWS ● Javascrypt ● Microservices ● Scrum ~   
 - ⭐ &nbsp; ~ Ubuntu ● Clean Code ● Design Patterns ● Vim ● ZSH ~   
 
 <p align="center">
