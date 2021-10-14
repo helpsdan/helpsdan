@@ -15,8 +15,8 @@
 
 <h3>⚙️ Stack</h3>
 
-- 💻 &nbsp; ~ Java ● Docker ● Kubernetes ● AWS ● Javascrypt ● Microservices ● Scrum ~   
-- ⭐ &nbsp; ~ Ubuntu ● Clean Code ● Design Patterns ● Vim ● ZSH ~   
+- 💻 &nbsp; ~ Java ● Javascript ● Node.js ● Terraform ● AWS ● Javascrypt ● Microservices ● Scrum ~   
+- ⭐ &nbsp; ~ Ubuntu ● Clean Code ● Design Patterns ● Vim ● ZSH ● Docker ~   
 
 <p align="center">
 
