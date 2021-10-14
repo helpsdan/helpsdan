@@ -15,7 +15,7 @@
 
 <h3>⚙️ Stack</h3>
 
-- 💻 &nbsp; ~ Java ● Javascript ● Node.js ● Terraform ● AWS ● Javascrypt ● Microservices ● Scrum ~   
+- 💻 &nbsp; ~ Java ● Javascript ● Node.js ● Terraform ● AWS ● Serverless ● Microservices ● Scrum ~   
 - ⭐ &nbsp; ~ Ubuntu ● Clean Code ● Design Patterns ● Vim ● ZSH ● Docker ~   
 
 <p align="center">
