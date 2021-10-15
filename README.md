@@ -2,29 +2,40 @@
 
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helpsdan" alt="helpsdan" /> </p>
-
 <h3> 🧑🏻‍💻 About Me </h3>
 
-- 🧑 &nbsp; Exploring new technologies, automate tasks and share knowledge.   
-- 💼 &nbsp; I’m currently working on as a Javascript Backend Developer at [Stone.co](https://www.stone.co/). **Project Ton**  
+- I aim to create a Technology School for help people to find his first job on IT
+- I have been spent the last 5 years working with IT
+- I have a degree in Analysis and Software Development.
+- I’m currently working on as a Javascript Backend Developer at [Stone.co](https://www.stone.co/). **Project Ton**  
 
----
 
-<h3>⚙️ Stack</h3>
+<h3>⚙️ Specialties</h3>
 
-- 💻 &nbsp; ~ Java ● Javascript ● Node.js ● Terraform ● AWS ● Serverless ● Microservices ● Scrum ~   
-- ⭐ &nbsp; ~ Ubuntu ● Clean Code ● Design Patterns ● Vim ● ZSH ● Docker ~   
+- 💻 &nbsp; ~ Java ● Javascript ● Node.js ● Terraform ● AWS ● Serverless ● Microservices ● Kubernetes ● DevOps ● Git ● MySQL ● DynamoDB ● MongoDB ● Postgres ● Spring ● Docker ● SQL ● ElasticSearch ~   
+- ⭐ &nbsp; ~ Ubuntu ● Clean Code ● Design Patterns ● Vim ● ZSH ● Code Review ● Scrum ● TDD ● BDD ● Maven ● Jira ● Linux ● Unix ● Networking ● Jenkins ● CI/CD ● Gitlab ● Agile ~   
 
-<p align="center">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> &nbsp; <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> &nbsp; <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> &nbsp; <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> &nbsp; <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> &nbsp; <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code> &nbsp; <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code> &nbsp; <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<H3> 🛠️ Projects </H3>
 
-</p>
+Evoluservices
+- Reports
+- E-commerce
+- Payment Link
 
----
+CI&T
+- CieloPay
+- QR Code
+- KYC Integration
+
+ZUP
+- Zenity
+- Zenity Infraestructure
+
+STONE
+
+- Se Liga no Ton
+- Fraud Analysis Automation
 
 <h3>🤩 Passions:</h3>
 
