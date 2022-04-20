@@ -35,6 +35,7 @@ ZUP
 STONE
 
 - Se Liga no Ton
+- Renda Extra
 - Fraud Analysis Automation
 
 <h3>🤩 Passions:</h3>
