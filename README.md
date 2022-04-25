@@ -4,11 +4,9 @@
 
 <h3> 🧑🏻‍💻 About Me </h3>
 
-- I aim to create a Technology School for help people to find his first job on IT
-- I have been spent the last 5 years working with IT
-- I have a degree in Analysis and Software Development.
-- I’m currently working on as a Javascript Backend Developer at [Stone.co](https://www.stone.co/). **Project Ton**  
-
+<h4>I'm a <strong>Software Engineer</strong> from São Paulo, Brazil. I aim to create a Tech-school to help people in finding their first job on IT.</h4>
+I have been spent the last 5 years working with IT mostly in finance area with payment companies and card machines. Trying help people, I've created a channel called Devnaweb where I'm doing livestreams about programming and tecnology. My aim is to create a Tech-school to help people in finding their first job. 
+I have a degree in Analysis and Systems Development and I'm starting a MBA in Devops Engineering. In addiction, I'm currently working on as Developer Software Engineer at [Stone.co](https://www.stone.co/). **Project Ton**
 
 <h3>⚙️ Specialties</h3>
 
@@ -18,25 +16,25 @@
 
 <H3> 🛠️ Projects </H3>
 
-Evoluservices
-- Reports
-- E-commerce
-- Payment Link
+STONE
+
+- Se Liga no Ton
+- Renda Extra
+- Fraud Analysis Automation
+
+ZUP
+- Zenity
+- Zenity Infraestructure
 
 CI&T
 - CieloPay
 - QR Code
 - KYC Integration
 
-ZUP
-- Zenity
-- Zenity Infraestructure
-
-STONE
-
-- Se Liga no Ton
-- Renda Extra
-- Fraud Analysis Automation
+Evoluservices
+- Reports
+- E-commerce
+- Payment Link
 
 <h3>🤩 Passions:</h3>
 
@@ -46,7 +44,6 @@ STONE
 - ☕ &nbsp; Coffe, much!   
 - 🎮 &nbsp; Games!   
 - 🛬 &nbsp; Trips!   
-
 
 ---
 
