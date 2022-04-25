@@ -1,3 +1,6 @@
+<img align="right" alt="GIF" src="assets/dan.gif"/>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel Alves</h1>
 
 <h1 align="center">A passionate backend developer from Brazil. </h1>
