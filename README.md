@@ -51,9 +51,12 @@ Evoluservices
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=helpsdan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## &#x1f4c8; My Stats
+![](https://github.com/helpsdan/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/helpsdan/github-stats/blob/master/generated/languages.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helpsdan&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/helpsdan/github-readme-stats)
+
+![snake gif](https://github.com/helpsdan/helpsdan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -61,10 +64,3 @@ Evoluservices
 
 
 [![Linkedin: Daniel Alves](https://img.shields.io/badge/-Daniel%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danaguiar/)](https://www.linkedin.com/in/danaguiar/)  &nbsp; [![GitHub Helpsdan](https://img.shields.io/github/followers/helpsdan?label=follow&style=social)](https://github.com/helpsdan/)
-
-## &#x1f4c8; My Stats
-![](https://github.com/helpsdan/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/helpsdan/github-stats/blob/master/generated/languages.svg)
-
-
-![snake gif](https://github.com/helpsdan/helpsdan/blob/output/github-contribution-grid-snake.svg)
