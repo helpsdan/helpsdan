@@ -6,7 +6,7 @@
 
 <h4>I'm a <strong>Software Engineer</strong> from São Paulo, Brazil. I aim to create a Tech-school to help people in finding their first job on IT.</h4>
 I have been spent the last 5 years working with IT mostly in finance area with payment companies and card machines. Trying help people, I've created a channel called Devnaweb where I'm doing livestreams about programming and tecnology. My aim is to create a Tech-school to help people in finding their first job. 
-I have a degree in Analysis and Systems Development and I'm starting a MBA in Devops Engineering. In addiction, I'm currently working on as Developer Software Engineer at [Stone.co](https://www.stone.co/). **Project Ton**
+I have a degree in Analysis and Systems Development and I'm starting a MBA in Devops Engineering. In addiction, I'm currently working on as Developer Software Engineer at Stone.co. ~ Project Ton ~
 
 <h3>⚙️ Specialties</h3>
 
