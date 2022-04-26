@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="assets/dan.gif" width="270" height="480"/>
+<img align="right" alt="GIF" src="assets/dan.gif" width="216" height="384"/>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel Alves</h1>
