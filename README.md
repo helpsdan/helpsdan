@@ -67,3 +67,5 @@ Evoluservices
 
 
 [![Linkedin: Daniel Alves](https://img.shields.io/badge/-Daniel%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danaguiar/)](https://www.linkedin.com/in/danaguiar/)  &nbsp; [![GitHub Helpsdan](https://img.shields.io/github/followers/helpsdan?label=follow&style=social)](https://github.com/helpsdan/)
+
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
