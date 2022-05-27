@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel Alves</h1>
 
-<h1 align="center">A passionate backend developer from Brazil. </h1>
+<h1 align="center">A passionate backend software engineer from Brazil. </h1>
 
 ### 🧑🏻‍💻 About Me 
 
